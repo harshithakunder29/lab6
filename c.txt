@@ -1,2 +1,3 @@
 First file message 
 Small changes in first file 
+New changes made 
